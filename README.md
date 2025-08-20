@@ -8,7 +8,7 @@ It consists of two main dashboards:
 - **Credit Card Customer Report**
 
   
-  👉👉[See my project](https://github.com/your-username/your-project-repo)
+  👉👉[See my project](https://app.powerbi.com/view?r=eyJrIjoiNDVjZjUxNTctYjZlOC00MzhjLWFhNjMtNWIzNTE0YjNjMmM4IiwidCI6IjFjZGYzNGYzLTA4ZjktNDNlYi05ZDRmLTJiYTRhMWQyMGE2ZiJ9)
 
 
 Together, they offer a clear and interactive visualization of key business metrics to help analyze **performance and customer demographics**.
